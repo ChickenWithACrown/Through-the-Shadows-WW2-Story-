@@ -46,6 +46,3 @@ ChickenWithACrown
 Contact: ChickenRadios@gmail.com
 
 Thank you for exploring "Through the Shadows"!
-
-
-Replace `your-username` with your actual GitHub username. This updated description provides clear instructions on how users can run the script and what dependencies they need to install.
