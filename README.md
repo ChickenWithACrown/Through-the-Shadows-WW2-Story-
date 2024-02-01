@@ -14,7 +14,7 @@ To run the script and experience the story, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd through-the-shadows
+   cd Story
    ```
 
 3. Install the required dependencies:
@@ -24,7 +24,7 @@ To run the script and experience the story, follow these steps:
 
 4. Run the script:
    ```bash
-   python through_the_shadows.py
+   python Story.py
    ```
 
 **Repository Contents:**
